@@ -1,0 +1,45 @@
+h1     {
+        color: Purple;
+
+        }
+hr      {
+            width:95%;
+            margin:0 auto;
+        }
+
+
+table.data-table{font-size:0.875em}
+table.data-table
+tr{background:none}
+table.data-table
+td{border:0;padding:6px;line-height:1.4em}
+table.data-table
+td.title{text-transform:uppercase;width:25%}
+table.data-table
+td.variety
+span{text-transform:capitalize}
+table.data-table
+span.with-description{border-bottom:2px dotted #9b3770;color:#9b3770;position:relative}
+table.data-table span.with-description .popover{width:120px;top:30px;font-size:0.75em}
+table.data-table span.with-description:hover .popover{opacity:1;visibility:visible}
+table.data-table td .bulbs_tulips{display:none}table.item-seasons{border:1px solid #ccc;background:#fff;margin:35px 0 20px}
+table.item-seasons
+tr{background:none}
+table.item-seasons
+thead th{background:none;text-transform:uppercase;font-weight:normal;font-size:0.8125em;text-align:center;color:#444;padding:9px 0;border:1px solid #ccc;border-right:1px solid #eee}
+table.item-seasons
+thead th.last{border-right:0}
+table.item-seasons
+td{border:0;padding:0}
+table.item-seasons tr.time td{height:10px}
+table.item-seasons td.filled{background:#ff7200}
+table.item-seasons tr.time.outdoors td.filled{background:#00e600}
+table.item-seasons tr.time.Hydroponics td.filled{background:#ff99ff}
+table.item-seasons tr.time.Harvest td.filled{background:#ff8533}.
+season-key{display:table;font-size:0.6875em;text-align:center;list-style-type:none;margin:0 auto 5px}.season-key
+li{display:block;float:left;margin:0 12px 0 0;text-align:center;padding-left: 15%}.season-key
+li span{display:block;float:left;width:10px;height:10px;margin:1px 7px 0 0}.season-key
+li em{font-style:normal;float:left}.season-key
+li.outdoors span{background:#00e600}.season-key
+li.Harvest span{background:#ff8533}.season-key
+li.Hydroponics span{background:#ff99ff}.season-key
